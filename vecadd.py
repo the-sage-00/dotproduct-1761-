@@ -9,6 +9,6 @@ print("\nfor 6th subQuestion, this is the change it asked for :) \n")
 
 print("changes for stash\n")
 
-
+print("Change for push\n")
 
 
